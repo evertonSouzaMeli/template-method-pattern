@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Everton Souza",
+    "age": 26,
+    "cpf": "103.788.020-03"
+  },
+  {
+    "name": "João Vitor Souza",
+    "age": 13,
+    "cpf": "556.059.250-16"
+  },
+  {
+    "name": "Felipe Andrade",
+    "age": 28,
+    "cpf": "556.059.250-16"
+  },
+  {
+    "name": "Maria das Neves",
+    "age": 58,
+    "cpf": "030.429.350-43"
+  },
+  {
+    "name": "Vanessa Souza",
+    "age": 35,
+    "cpf": "717.889.040-10"
+  }
+]
